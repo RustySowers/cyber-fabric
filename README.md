@@ -1,3 +1,4 @@
+<text>
 # "cyber-fabrica"
 
 # Cyber is "cyber" in Latin
@@ -16,7 +17,7 @@
 # 3. Entity analyzes system list's exposure factors and prioritizes per organization's objectives
 # 4. Entity adjusts current practices to address exposures   
 #  Optional: Entity compares prioritization to other risk identification
-
+</text>
 
 
 
