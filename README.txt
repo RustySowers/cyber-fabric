@@ -1,10 +1,10 @@
 
 DRAFT 
 
-Purpose of the Network-Enabled Systems List? Many hardware types are used in specific use cases, but current IT and security aren't always allowed or able to "see" via network scan, and they likely do not label to the granularity of a function or use-specific and uniform label
+Purpose of the Network-Enabled Systems List? Many hardware types are used in specific use cases, but current IT and security tools, scanners, etc. aren't always allowed or able to "see" via network scan, and they likely do not label to the granularity of a function or use-specific and uniform label
 
 Usage examples for list?
-1. Identify potential areas or device categories known to exist but yet a focus to the level of review, test, TM, etc
+1. Identify potential areas or device categories known to exist but yet to focus to the system-type level of review, test, TM, etc
 2. Compare system-type exposure factors to current organizational measurements relating to risk, cyber, etc
 3. Decision point to rate exposure while comparing two or more classes of devices (e.g., Comparing Thin Client vs. Thick Client vs. Desktop PC as part of a    
    technology purchase)
