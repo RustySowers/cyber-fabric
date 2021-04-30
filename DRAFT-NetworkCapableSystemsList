@@ -1,3 +1,725 @@
+DRAFT - EXAMPLES -Duplicates, redundancies in list
+
+
+Combo Coax Modem/Wi-Fi disabled- Consumer Grade
+Combo Coax Modem/Router - No Native Wi-FI
+Webserver - Bare-Metal OS Type 1 
+Webserver - Bare-Metal OS Type 2
+Webserver - Bare-Metal OS Type 3
+Cable Modem
+Combo Coax Modem/Router/WiFi WPS/WPA2- Business Grade 
+Combo Coax Modem/Router/Wi-Fi WPS/WPA2 - Consumer Grade
+Combo Coax Modem/Router/WiFi6 WPA3- Business Grade
+Combo Coax Modem/Router/Wi-Fii6 WPA3 - Consumer Grade
+Combo Coax Modem/Router/WiFi disabled - Business Grade
+Cable Modem Termination System
+ISP Inter-provider Router
+ISP Internal BGP
+Subscriber Edge Router (BGP)
+Customer-network adjacent ISP networking device
+Coax Cable Modem (Docsis)
+DSL Router 
+DSL Router w/ Wi-Fi
+ISDN Line Card 
+DSL Line Card
+POTS Line Card
+SONET Line Card
+ATM Line Card
+GPON Router 1
+GPON Router 2
+Edge Router
+Gateway ISR Router
+Gateway Router 
+Industrial Router
+SDWAN On Prem- Hardware
+SDWAN On-Prem - Virtual
+Core Switch/Stack
+Distribution Switch/Stack
+Virtualized Switch Function
+Virtual Machines:"External-facing" Network VM
+Next-Gen Firewall - Physical
+Next-Gen Firewall - Virtual 
+"UTM" Firewall - Physical 
+"UTM" Firewall - Virtual
+IDS/IPS - OS 1
+IDS/IPS - OS 2
+Combo Router/Modem/WiFi - Business Grade "Advanced Security"
+Combo Router/Modem/Wi-Fi - Consumer Grade "Advanced Security 
+AED (Defribullator) - Ethernet
+AED (Defribullator) - Wi-Fi
+Remote Terminal Unit
+Remote KVM 
+Remote Reboot/Power Off
+Remote "Multiplatform" KVM
+Industrial Vending Machines Ethernet/Wi-Fi
+Industrial Vending Machines Cellular
+Cafeteria Vending Machines Ethernet/Wi-Fi
+Cafeteria Vending Machines Cellular
+Industrial Network Address Translation Device
+Industrial Configurable NAT Router
+Integrated Services Router
+Network Video Doorbell
+Network Doorbell
+Blade Server Chassis
+Blade Server  
+SDWAN Appliance - Data Center Peering
+SDWAN Appliance - Cloud Data Center Peering
+Virtual Machine - Hypervisor-based
+Hypervisor Management interface
+Web Servers- Placeholder
+Industrial VPN Router
+Web App Servers (other) - Placeholder
+MPLS Router
+VoIP Signaling Gateway
+VoIP Unified Messaging Server
+VoIP Bandwidth Manager/Optimization
+VoIP Access Concentrator
+VoIP IP PBX
+Enterprise IT Management Console 
+Enterprise Security Management Console
+Unmanaged-type Access Layer Switch
+Unmanaged Access Layer Switch w/ Management capability
+Fiber Channel Network Switch 
+iSCSi-capable Network Switch
+Kiosk - Public Access
+Kiosk - Private Access
+End-user Laptops - Non-Managed
+End-User Desktop PCs - Non-Managed+User unaware
+Endpoint - Open Reception Area PC
+Data Center Fabric Interconnect Device
+Data Center Fabric Extender 
+Workstation PC 
+DNS Server (external) Placeholder
+Network Load Balancer - Virtual Appliance
+Network Load Balancer - Physical Appliance
+T1 Circuit
+T3 Circuit
+Cell Modem non-WiFi, Ethernet Switch
+Cell Modem w/ WiFi, Ethernet Switch
+Cell Modem HotSpot
+Federated Servers
+Email Servers
+Dial-Up Modem Pool Director
+Remote Desktop Server
+Remote Desktop Gateway
+NTP Servers
+VPN Servers
+Jump Hosts, Bastion Servers, etc
+DHCP Server
+Network Hub
+Wi-Fi Repeater
+Wireless Bridge AP endpoint
+Point-of-Sale Computers
+Point-of-Sale Endpoints, EMV Chip Readers, etc
+Barcode Scanners
+IP-based cameras
+PKI servers, SSL proxies
+Building Management Servers: WAN often enabled for Service Providers, Property Management
+Management & Monitoring Servers
+PBX VoIP, POTS 
+FAX Machines
+ Telemetry & signal receivers for Endpoint Security, Alarm, Life Safety, Medical devices
+SSH Server
+SFTP Server
+Cloud-connector Storage Physical Appliances
+Backup Appliances, Servers
+Commercial/Residential Alaram Systems
+Commercial Fire Protection Systems
+IoT Wi-Fi Hub Devices 
+IoT Wi-Fi Household Appliance Endpoints
+IoT Wi-Fi Thermostat
+IoT Wi-Fi Cinema 
+Payroll Time Clock Ethernet
+Payroll Time Clock Wi-Fi
+Video Gaming Consoles
+Non-Managed Residential Computing Tablet Wi-Fi
+Non-Managed Residential Computing Tablet Cellular+Wi-Fi
+Cellular Network Signal-Boost Devices
+File Servers
+Privileged Account Management Servers
+Enterprise App Servers (ERP, CRM, etc)
+Plant App Servers (MES, etc)
+ICS Historian Server
+HMI - Wi-Fi
+HMI - Cellular
+Intelligent Electronic Device - Wi-Fi
+Intelligent Electronic Device - Bluetooth
+Serial Based Wireless Communication 
+Wi-Fi Range Extenders
+SDN network devices
+Traffic Light Controllers
+Media Streaming broadcasters (X-cast, etc)
+"Smart" Panels 
+Serial Console Servers
+Ethernet to Profibus Linking Device
+Ethernet to Fieldbus Linking Device
+Ethernet to DeviceNet Linking Device
+Industrial Security Appliance
+Industrial Managed Switch
+Industrial Managed Switch - Modular
+Mainframe
+Data Center Environmental Monitor
+Data Center Humidifier
+Data Center Air Cooling Unit
+Data Center Centrigual Chillers
+Data Center Flywheel Power Backup
+Print Server 
+RS-232 Repeater
+Network TAP
+Console Server
+Proximity Card Reader RFID
+Rackmount Server
+Tower Server
+Legacy Mainframe
+ATM (banking) Interface
+IoT Refrigerator
+IoT Coffee Maker
+IoT Oven 
+IoT Portable Tempature Gauge
+Unified Factory-based Interconnectivity 
+Licensing Server
+TVOS1 - Supported
+TVOS2 - Unsupported
+VR Headset
+Access Switch
+PoE Access Switch
+Virtual Machine - Workstation-based
+Virtual Machine (LAN, no NAT/FW rule/WAN IP)
+End-user Laptops - IT+Security Managed
+End-User Desktop PCs - Non-Managed
+End-User Desktop PCs - IT-Managed+User-Aware
+End-user Laptops - IT Managed+User aware
+End-user Laptops - Non-Managed+User unaware
+End-User Desktop PCs -Non-Managed+User aware
+Endpoint - Closed Reception Area PC
+End User Desktop PC
+End-User Netbook
+End-User Laptop
+End-User Computer w/ subpar OS license
+Shared End-User Desktop - Unmanaged
+Thin Client PC - Wi-Fi
+Thick Client PC - Wi-Fi
+Combo Router/Modem/Wi-Fi-disabled - Enterprise Grade
+Combo Router/Modem w/ WiFi Disabled- Business Grade
+Combo Router/Modem w/ Wi-Fi-disabled - Consumer Grade
+Powerline Network Adapters
+Wi-Fi Access Points - Business Grade
+Wi-Fi Access Points - Consumer Grade
+Web Servers w/ CDN Protection
+Web App Servers (other) w/ CDN Protection
+Dial-Up Modems
+VPN tunnel endpoints
+Privileged Access Workstations
+Desktop IP Phones (w/ often w/ Ethernet switch, web interface)
+VoIP Phones (web interfaces)
+Printers
+Print Servers
+IT Service Desk
+Code Repos 
+Wi-Fi Controllers
+Enterprise Consoles
+Email Security Gateway
+Marketing Servers, Services
+Desktop Document Scanner Ethernet
+Plotter - Ethernet
+Plotter - Wi-Fi
+SAN storage Controller Active
+PLCs 
+SCADA
+CNC-based 
+Digital Oscilliscopes
+Protocol/Serial Converters
+ECU
+Industrial Control Operator W/s - Unsupported OS
+Industrial Control Operator W/s - Unsupported OS
+Industrial Control Operator W/s - Unsupported OS
+HMI - Ethernet
+PLC - Ethernet
+PLC - Non-TCP/IP
+Dist. Control System Unit
+Intelligent Electronic Device - Ethernet
+Intelligent Electronic Device - Fieldbus
+Level Sensors 
+Pressure Sensors
+Flow Sensors
+Engineering Workstation
+ICS Ruggedized Network Switch
+ICS Ruggedized Protocol Converter
+ICS I/O Converter
+Media Converters
+GPS Receivers
+AiO Wi-Fi System w/ Multi-AP
+Lab/Benchtop Centifuge
+Gas Chromatography Mass Spectrometry Machine
+3D Imaging Scanner
+AC Speed Control Device
+Blower Motor Controller
+Stepper Motor Controller
+eReader
+Smartwatch
+SmartGlasses
+SmartRing
+Calculator
+Multipurpose Sensor
+Tempature Sensor
+Motion Sensor
+Thermal IP Camera
+PoE Injector
+Conference Speaker Phone
+Fingerprint Reader
+Label Printer
+3D Printer
+Dot Matrix Printer
+Projector
+Thermometer/Humidity Sensor
+CNC Controller
+Robotic
+Forklift
+End-User Desktop PCs - IT Managed
+Endpoint - Shipping/Receiving
+End-User Desktop PCs - "IT Managed" + "User Trained" + "Security managed"
+Shared End-User Desktop - IT Managed
+Workstation PC "IT Managed" + "Security managed"+"General Physical Access"
+Thin Client PC - Ethernet 
+Thick Client PC - Ethernet 
+SIEM Server/Services placeholder
+Syslog placeholder
+Log Management 
+Industrial Control Operator W/s - Supported OS, IT+Security Managed, enclaved
+Industrial Control Operator W/s - Supported OS, IT Managed, eclaved
+Industrial Control Operator W/s - Supported OS 
+Monitors (WiDi)
+Shared End-User Desktop - IT+Security Managed
+Workstation PC "IT Managed" + "Security managed"+"Limited Physical Access"
+Host-Type
+Customer-network adjacent ISP device, DSL
+Customer-network adjacent ISP device, Coax 
+Customer-network adjacent ISP device, Fiber Device
+Customer-network adjacent ISP device, Ethernet
+Customer-network adjacent ISP device, Wireless
+EPON Home Gateway (FTTH)
+SIP Trunking Gateway
+TDM Trunk
+DOCSIS Timing Server
+Desktop Communication Hub (IoT)
+Virtual Container Type 1 Placeholder
+Container Type 2 Placeholder
+Container Type 3 Placeholder
+Container Type 4 Placeholder
+Converged Appliance (Management, Virtual Network planes)
+Hyper-Converged Appliance  (Management, Virtual Network planes)
+Host-Type Attack-Surface "matrix" 
+ISP Residential Type
+Database Servers
+Business App Servers
+Update Servers 
+ICS Drives Controllers
+ICS Robot Controllers
+ICS Programmable Automation Controller
+ICS Distributed I/O
+ICS Variable Frequency Drive Controllers
+ICS Test Stand Servers
+SAN storage Controller Passive
+
+NAS storage 
+Data Virtualization Switches
+UPS/Power Redundancy Controllers
+Generators
+Domain Controllers
+iPhone - Supported
+iPhone - Unsupported
+iPhone - Supported, IT Managed
+iPhone - Supported IT+Security Managed
+iPad - Supported IT Managed
+iPad - Supported, IT+Security Managed
+iPad - Supported 
+iPad - Unsupported
+iPod - Supported IT Managed
+iPod - Supported, IT+Security Managed
+WatchOS - Supported IT Managed
+WatchOS - Supported IT+Security Managed
+WatchOS - Supported
+WatchOS - Unsupported
+Android OS 1
+Android OS2
+Android OS3
+Android OS4
+Android OS5
+Android OS7
+Android OS8 
+Android OS Industrial/IIoT - IT+Security Managed
+Android OS Industrial/IIoT - OT+Security Managed
+Android OS10 Industrial/IIoT- Non-managed
+Digital Sign Wireless Bridge
+Digital Sign Endpoint 
+Rasberry PI host type 1
+Rasberry PI host type 2
+Rasberry PI device type 3
+Rasberry PI device type 4
+Rasberry PI device type 5
+Rasberry PI device type 6
+Rasberry PI device type 7
+Rasberry PI device type 8
+Rasberry PI device type 9
+Rasberry PI device type 10
+Arduino device type 1
+Arduino device type 2
+Arduino device type 3
+Arduino device type 4
+Arduino device type 5
+Arduino device type 6
+OPC Server
+File Transfer Appliance device
+Low-Power Wi-Fi Module
+TFT Display
+Storage WBEM
+Vital Sign Data Capture 
+Implanted Device
+Sleep Monitor
+Sleep Apnea Device
+Remote Care Biometric Scanner
+Air Quality Sensor
+Glucose Monitor
+Inhaler (IoT)
+Ingestible Sensor
+Robotic Surgery
+Doorbell Cam
+Smart Lock
+Mobile Robot
+Smart Light Switch
+Smoke Alarm
+Universal Remote
+IoT Refill Button
+Garage Door Opener System
+Surgery Robot
+Countertoip Grill
+Water Monitor
+Smart Vent
+Toilet/Bidet IoT
+Baby Monitor
+Espresso Maker
+Coffee Maker
+Indoor Security Camera (Residential)
+Motion Sensor
+Battery IoT
+Smart Mattress
+GPS Tracker
+Beacon 
+Product Shipment Sensor
+Robotic Forklift
+Robotic Materiel Handler
+Pill Bottle IoT
+Pill Bottle Cap IoT
+ECG Monitor
+Breath Analyzer
+Toxicology Facial Recognition
+Fitness Tracker
+Stationary Exercise Device
+Fish Finder
+Garden Sensor
+Animal Companion/Pet Tracking
+Smart Bicycle Lock
+Smart Deadbolt
+Trash Container
+Election Voting Machine
+Election Ballot Workstation
+Election Ballot Printer
+AI Appliance/Server
+Forensic Appliance/Server for Mobile Devices
+Base Transceiver Stations
+Base Station Controller
+Mobile Switching Center Server
+5G NR FR2 Femtocell
+5G NR FR2 Pico Cell
+5G NR FR2 Micro Cell
+5G NR FR2 Metro Cell
+Cloud MEC Customer Presence Device
+Endpoint Security WBEM
+Endpoint Encryption WBEM
+Endpoint Detection & Response WBEM
+Endpoint Remote Management WBEM
+Proxy Server
+Reverse Proxy Server
+Anonymous Proxy Server
+High-Anonymity Proxy
+Transparent Proxy
+CGI Proxy Server
+Suffix Proxy Server
+Distoring Proxy Server
+DNS Security Function WBEM
+Tor Proxy Server
+I2P Anonymous Proxy
+DNS Proxy Server
+Socks Proxy Server
+FTP Proxy Server
+HTTP Proxy Server
+SSL Proxy Server
+Docker Container
+LXC Container
+CRI-O Container
+RKT Container
+Podman Container
+RunC Container
+ContainerD Container
+Container Registry 
+Container Images
+Container Host Server
+Lawn & Garden Smart Sprinkelr
+Lawn & Garden Smart Anenometer
+Irrigation Sensor
+Weather Monitoring Sensor
+Irrigation Timer
+Weather Station
+Floating Thermoter
+Thermometer/Humidity Sensor
+Flood and Freeze Sensor
+CO2 Alarm
+Smoke Alarm
+Energy Monitor
+Smart Water Shutoff
+Smart Water Valve
+Motion Temp Light Sensor
+Gate Opener Wi-Fi
+Windows Sensor Magnetic Contact Alarm
+Digital Shipping Postal Scale
+Digital Shipping Postal Scale & Meter
+Label Printer
+Credit Card Reader (Contactless, Chip)
+Digital Camera Dock/Station/Accessory
+Cordless Phone System Bluetooth
+Photo Scsnner
+Outdoor Access Point
+Industrial Access Point
+Wireless Testing Sensor/Active Sensor
+Industrial ISR Router
+Industrial WPAN Router - Medical
+Industrial Grid Router
+Radio Transceiver
+FM Radio Traffic Aggregator
+Point-to-multipoint Base Station
+Point-to-mesh 
+Heacy-Duty Industrial Access Point
+Industrial Access Point - Rolling Stock
+Industrial Service Router single-LTE WAN
+Industrial Service Router Dual-LTE WAN
+Digital Valve Controller
+Motion Sensor Field Transitter
+Flow Meters
+Machinery Health Analyzer
+Solenoid Valves
+Pressure Regulators
+Pressure Regulator Valve
+Tempature Transmitter
+Pressure Transmitter
+Vibrating Fork
+Valve Actuator
+Transmitter - Non-Contacting Radar
+CNG Flow Meter
+Handheld Operator Panel Unit - Robotics
+Electric Injection Molding Machine
+Wire-cut Electric Disharge Machine
+Ultra Precision Machine
+Compact Machining Center
+Additive Manufacturing - Electron Beam Melting Machine
+Additive Manufcturing - Direct Metal Laser Melting Machine
+Digital Adjustable Frequency Drive
+Hybrid Adjustable Frequency Drive
+Soft Starter
+AC Adjustable Frequency Drive
+DC Adjustable Frequency Drive
+Adjustable AC Voltage Control
+DC Adjustable Speed Control
+Field Programmable Closed Loop Controller
+DC Tachometer 
+DC Pulse Generator
+DC Adjustable Speed Control - Low-Voltage
+Potentiometer
+Combination Motor-Starter
+IEC Combo Motor Starter
+NEMA Magnetic Contactors
+NEMA Magnetic Motor Starter
+Motor Strter Heater
+Multipole Lighting Contactors
+Overload Relats
+IEC Contactors
+IEC Overload Relays
+Surge Protection Device Industrial
+Power Conditioners
+Control Transformers
+Industrial Power Supply
+DC Power Supply
+Switching Power Supply
+Time Delay Relay
+Panel Meter
+Electronic Totalizer
+Electronic Count Controller
+Preset Digital Counter/Tach
+Tempature Controllers
+Tempature Control Boxes
+Enclosure Heater
+Portable Air Conditioner
+Enclosure Air Conditioner
+Network Test Tool
+Fiber Optic Test Tool
+Benchtop Thermal Label Printer
+Portable Generator
+Blood Purification Device
+Infusion Pump
+Remote Patient Interval Monitor
+Nurse Call System
+Patient Isolation Transport Unit (PITU)
+Remote Patient Monitor
+Decontamination System
+UV Decontamination System
+Sterilizer System
+Muscle Stimulator Device
+Diaphragm Pacing Ther
+Solar Charge Controller
+Solar Irradience Meter
+Solar Analyzer
+Solar Inverter
+Solar Installation Testing Device
+Temporary Power Distribution Device
+Three Phase Temporary and Portable Power Station 
+Automatic Reset GFCI Modules
+Profinet Gateway
+Profinet Gateway WLAN
+Industrial LTE Router 3G/4G and Wi-Fi
+4G Vehicle Gateway
+4G Vehicle Gateway w Wi-Fi
+Insutrial Wireless Access Client 802.11a/b/g/n
+Insutrial Ruggedized Wireless Access Client 802.11a/b/g/n
+Industrial Computer
+Industrial Rackmount Computer
+Industrial High-Performance Computer
+RFID Integrated UHF
+RFID Reader Handheld
+RFID Wireless
+RFID Reader w/ Read/Write
+Thermal Imaging Device
+Microscope Camera Wi-Fi
+Wi-Fi Digital Microscore Portable
+Floor Scale Wi-Fi
+Wireless Endoscope
+Pulse Oximeter Wi-Fi
+Blood Pressure Monitor
+Microscope Camera Wi-Fi portable and for mobile devices
+Intraoral Camera Endoscope Wi-Fi
+Tablet "medical-use"
+Column Scale Wi-Fi
+Earpick Wi-Fi
+IV Infusion Pump Wi-Fi
+CT Scanner Embedded Controller
+CT Scanner External Controller
+Portable handheld X-Ray Scanner
+X-ray Wireless Imaging System
+X-ray panoramic
+Medical Multi-Port Wired IoT Gateway
+Drying Scope Cabinet 
+Ultrasonic Pre-Wash Unit
+Anesthesia Cart Wireless
+Crash Cart Wireless
+Suture Procedure Cart Wireless
+Vital Sign Monitor
+Stretcher/Bed Wireless
+Treatment Cart Wireless
+Medical Workstation on Wheels
+MRI Conditional Cart Wireless
+Meal Delivery Cart Wireless
+Baby Scale
+Bassinet Wireless
+Blanket Warmer Wireless
+Fetal Monitoring Cart Wireless
+Fetal Doppler 
+Fetal Monitoring 
+Ultrasound Device
+Digital Patient Communication Board
+Centrifuge
+Digital Mini Tube Rotator
+Vaccine Refigerator
+Pharmacy Refrigerator
+Storage Cabinet Medical Wireless
+Mortuary Refrigerator
+Narcotics Cabinets/Storage
+Bladder Scanner
+Phlebotomy Cart Wireless
+Upright Exercise Bike
+Recumbent Exercise Back
+Lateral Stepper Exercise
+Elliptical
+Treadmill
+Ergometers
+Fully Body Exercisers
+Medical - Virtual Reality Exercise System
+Light Therapy Device Wireless
+Medical Wireless Acquisition Module
+Digital ECG 
+Cardiac Stress System
+Vision Screener
+Non-Invasive BPM
+Welder w/ Generator
+Welder w/ Generator
+Tonometer
+Phoropter
+Retinoscope
+Autorefractor
+Snellen Chart
+Reninal Camera
+Opthalmoscope
+Vision Screener
+Corneal Analyzer
+Keratograph
+Automatic Ear Cleaning Device
+Laryngoscope
+Cochlear Implant 
+Catheter Wireless Smart
+Cranial Implant
+DJ Controller (Music)
+DDJ Turntable
+Speaker Wireless
+DJ Multi-player
+Wi-Fi Streamer 
+Wi-Fi Streamer w/ BT
+Wireless Streaming Preamplifier Wi-Fi, Bluetooth, Airplay
+Wi-Fi Range Extenders
+Wi-Fi 6 Range Extenders
+Propeitary Extender 1
+Propeitary Extender 2
+Propeitary Extender 3
+Wi-Fi Satellite
+Digital Audio Recorder
+Professional Audio Mixer
+Professional Audio Power Amplifier
+Professional Sound Masking System
+Pink/White/Brown Noise Signal Generator
+Timecode Generator
+Satellite Mobile Device
+Satellite GPS Device
+Bagger Dry-Cleaning
+Edu Coding Kit
+Tablet   
+Laptop
+Tablet "medical-use"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 DRAFT
 Combo Router/Modem/Wi-Fi disabled- Consumer Grade
 Cable Modem - No Native Wi-FI
