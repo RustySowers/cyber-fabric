@@ -1,0 +1,331 @@
+DRAFT! By no means exhaustive, as it still needs many entries
+
+Note: 
+-The following list contains Cyber Asset types whose function, type, etc. is within Industrial, ICS, OT, etc.
+-An asset-type may exist in two or more categories and not be considered a duplicate, due to the differences in application, 
+function, configuration, etc
+-There are real duplicates to review, remove
+-There are many more types than this
+
+Question? 
+How did an get on this list, since anything can be connected to a network and they are all computers at the end of the day?
+
+Answer? 
+Mostly, the list contains devices which are network-capable computers at the base level. A device in this list is likely a 
+computer with a specific use built in to the hardware, software, and intended use of the device. Many entries use specialized hardware, 
+software, and other configurations, which are specific to the function they serve.
+
+
+
+OT/ICS/Industrial	Industrial Layer 3 Router
+OT/ICS/Industrial	Remote Terminal Unit
+OT/ICS/Industrial	Industrial Vending Machines Ethernet/Wi-Fi
+OT/ICS/Industrial	Industrial Vending Machines Cellular
+OT/ICS/Industrial	Industrial Network Address Translation Device
+OT/ICS/Industrial	Industrial Configurable NAT Router
+OT/ICS/Industrial	Integrated Services Router
+OT/ICS/Industrial	Industrial VPN Router
+OT/ICS/Industrial	Web App Servers (other) - Placeholder
+OT/ICS/Industrial	Plant App Server (MES, etc)
+OT/ICS/Industrial	ICS Historian Server
+OT/ICS/Industrial	HMI - Wi-Fi
+OT/ICS/Industrial	HMI - Cellular
+OT/ICS/Industrial	Intelligent Electronic Device - Wi-Fi
+OT/ICS/Industrial	Intelligent Electronic Device - Bluetooth
+OT/ICS/Industrial	Serial Based Wireless Communication 
+OT/ICS/Industrial	Wi-Fi Range Extenders
+OT/ICS/Industrial	SDN network devices
+OT/ICS/Industrial	Traffic Light Controllers
+OT/ICS/Industrial	"Smart" Panels 
+OT/ICS/Industrial	Serial Console Servers
+OT/ICS/Industrial	Ethernet to Profibus Linking Device
+OT/ICS/Industrial	Ethernet to Fieldbus Linking Device
+OT/ICS/Industrial	Ethernet to DeviceNet Linking Device
+OT/ICS/Industrial	Industrial Security Appliance
+OT/ICS/Industrial	Industrial Managed Switch
+OT/ICS/Industrial	Industrial Managed Switch - Modular
+OT/ICS/Industrial	Mainframe
+OT/ICS/Industrial	Data Center Environmental Monitor
+OT/ICS/Industrial	RS-232 Repeater
+OT/ICS/Industrial	Network TAP
+OT/ICS/Industrial	Console Server
+OT/ICS/Industrial	Proximity Card Reader RFID
+OT/ICS/Industrial	Rackmount Server
+OT/ICS/Industrial	Unified Factory-based Interconnectivity 
+OT/ICS/Industrial	PLCs 
+OT/ICS/Industrial	SCADA
+OT/ICS/Industrial	CNC-based 
+OT/ICS/Industrial	Digital Oscilliscopes
+OT/ICS/Industrial	Protocol/Serial Converters
+OT/ICS/Industrial	ECU
+OT/ICS/Industrial	Industrial Control Operator W/s - Unsupported OS
+OT/ICS/Industrial	Industrial Control Operator W/s - Unsupported OS
+OT/ICS/Industrial	Industrial Control Operator W/s - Unsupported OS
+OT/ICS/Industrial	HMI - Ethernet
+OT/ICS/Industrial	PLC - Ethernet
+OT/ICS/Industrial	PLC - Non-TCP/IP
+OT/ICS/Industrial	PLC - Ethernet, w/ Wi-Fi
+OT/ICS/Industrial	Dist. Control System Unit
+OT/ICS/Industrial	Intelligent Electronic Device - Ethernet
+OT/ICS/Industrial	Intelligent Electronic Device - Fieldbus
+OT/ICS/Industrial	Level Sensors 
+OT/ICS/Industrial	Pressure Sensors
+OT/ICS/Industrial	Flow Sensors
+OT/ICS/Industrial	Engineering Workstation
+OT/ICS/Industrial	ICS Ruggedized Network Switch
+OT/ICS/Industrial	ICS Ruggedized Protocol Converter
+OT/ICS/Industrial	ICS I/O Converter
+OT/ICS/Industrial	Media Converters
+OT/ICS/Industrial	GPS Receivers
+OT/ICS/Industrial	AiO Wi-Fi System w/ Multi-AP
+OT/ICS/Industrial	Lab/Benchtop Centifuge
+OT/ICS/Industrial	Gas Chromatography Mass Spectrometry Machine
+OT/ICS/Industrial	3D Imaging Scanner
+OT/ICS/Industrial	Paint Robot
+OT/ICS/Industrial	Toploader Robot
+OT/ICS/Industrial	Precision Robot
+OT/ICS/Industrial	ARC Weld Robot
+OT/ICS/Industrial	Collaborative Robot
+OT/ICS/Industrial	AC Speed Control Device
+OT/ICS/Industrial	Blower Motor Controller
+OT/ICS/Industrial	Stepper Motor Controller
+OT/ICS/Industrial	Thermometer/Humidity Sensor
+OT/ICS/Industrial	CNC Controller
+OT/ICS/Industrial	Sideloader
+OT/ICS/Industrial	Robotic Forklift
+OT/ICS/Industrial	Counterbalance Forklift
+OT/ICS/Industrial	Telehandler
+OT/ICS/Industrial	Industrial Forklift
+OT/ICS/Industrial	Industrial Control Operator W/s - Supported OS, IT+Security Managed, enclaved
+OT/ICS/Industrial	Industrial Control Operator W/s - Supported OS, IT Managed, eclaved
+OT/ICS/Industrial	Industrial Control Operator W/s - Supported OS 
+OT/ICS/Industrial	ICS Drives Controllers
+OT/ICS/Industrial	ICS Robot Controllers
+OT/ICS/Industrial	ICS Programmable Automation Controller
+OT/ICS/Industrial	ICS Distributed I/O
+OT/ICS/Industrial	ICS Variable Frequency Drive Controllers
+OT/ICS/Industrial	ICS Test Stand Servers
+OT/ICS/Industrial	Android OS Industrial/IIoT - IT+Security Managed
+OT/ICS/Industrial	Android OS Industrial/IIoT - OT+Security Managed
+OT/ICS/Industrial	Android OS10 Industrial/IIoT- Non-managed
+OT/ICS/Industrial	OPC Server
+OT/ICS/Industrial	Low-Power Wi-Fi Module
+OT/ICS/Industrial	Product Shipment Sensor
+OT/ICS/Industrial	Robotic Forklift
+OT/ICS/Industrial	Robotic Materiel Handler
+OT/ICS/Industrial	Smart Water Shutoff
+OT/ICS/Industrial	Smart Water Valve
+OT/ICS/Industrial	Industrial ISR Router
+OT/ICS/Industrial	Industrial WPAN Router - Medical
+OT/ICS/Industrial	Industrial Grid Router
+OT/ICS/Industrial	Radio Transceiver
+OT/ICS/Industrial	FM Radio Traffic Aggregator
+OT/ICS/Industrial	Point-to-multipoint Base Station
+OT/ICS/Industrial	Point-to-mesh Device
+OT/ICS/Industrial	Heacy-Duty Industrial Access Point
+OT/ICS/Industrial	Industrial Access Point - Rolling Stock
+OT/ICS/Industrial	Industrial Service Router single-LTE WAN
+OT/ICS/Industrial	Industrial Service Router Dual-LTE WAN
+OT/ICS/Industrial	Digital Valve Controller
+OT/ICS/Industrial	Motion Sensor Field Transitter
+OT/ICS/Industrial	Flow Meters
+OT/ICS/Industrial	Machinery Health Analyzer
+OT/ICS/Industrial	Solenoid Valves
+OT/ICS/Industrial	Pressure Regulators
+OT/ICS/Industrial	Pressure Regulator Valve
+OT/ICS/Industrial	Tempature Transmitter
+OT/ICS/Industrial	Pressure Transmitter
+OT/ICS/Industrial	Vibrating Fork
+OT/ICS/Industrial	Valve Actuator
+OT/ICS/Industrial	Transmitter - Non-Contacting Radar
+OT/ICS/Industrial	CNG Flow Meter
+OT/ICS/Industrial	Handheld Operator Panel Unit - Robotics
+OT/ICS/Industrial	Electric Injection Molding Machine
+OT/ICS/Industrial	Wire-cut Electric Disharge Machine
+OT/ICS/Industrial	Ultra Precision Machine
+OT/ICS/Industrial	Compact Machining Center
+OT/ICS/Industrial	Additive Manufacturing - Electron Beam Melting Machine
+OT/ICS/Industrial	Additive Manufcturing - Direct Metal Laser Melting Machine
+OT/ICS/Industrial	Digital Adjustable Frequency Drive
+OT/ICS/Industrial	Hybrid Adjustable Frequency Drive
+OT/ICS/Industrial	Soft Starter
+OT/ICS/Industrial	AC Adjustable Frequency Drive
+OT/ICS/Industrial	DC Adjustable Frequency Drive
+OT/ICS/Industrial	Adjustable AC Voltage Control
+OT/ICS/Industrial	DC Adjustable Speed Control
+OT/ICS/Industrial	Field Programmable Closed Loop Controller
+OT/ICS/Industrial	DC Tachometer 
+OT/ICS/Industrial	DC Pulse Generator
+OT/ICS/Industrial	DC Adjustable Speed Control - Low-Voltage
+OT/ICS/Industrial	Potentiometer
+OT/ICS/Industrial	Combination Motor-Starter
+OT/ICS/Industrial	IEC Combo Motor Starter
+OT/ICS/Industrial	NEMA Magnetic Contactors
+OT/ICS/Industrial	NEMA Magnetic Motor Starter
+OT/ICS/Industrial	Motor Strter Heater
+OT/ICS/Industrial	Multipole Lighting Contactors
+OT/ICS/Industrial	Overload Relats
+OT/ICS/Industrial	IEC Contactors
+OT/ICS/Industrial	IEC Overload Relays
+OT/ICS/Industrial	Surge Protection Device Industrial
+OT/ICS/Industrial	Power Conditioners
+OT/ICS/Industrial	Control Transformers
+OT/ICS/Industrial	Industrial Power Supply
+OT/ICS/Industrial	DC Power Supply
+OT/ICS/Industrial	Switching Power Supply
+OT/ICS/Industrial	Time Delay Relay
+OT/ICS/Industrial	Panel Meter
+OT/ICS/Industrial	Electronic Totalizer
+OT/ICS/Industrial	Electronic Count Controller
+OT/ICS/Industrial	Preset Digital Counter/Tach
+OT/ICS/Industrial	Tempature Controllers
+OT/ICS/Industrial	Tempature Control Boxes
+OT/ICS/Industrial	Enclosure Heater
+OT/ICS/Industrial	Portable Air Conditioner
+OT/ICS/Industrial	Enclosure Air Conditioner
+OT/ICS/Industrial	Benchtop Thermal Label Printer
+OT/ICS/Industrial	Solar Charge Controller
+OT/ICS/Industrial	Solar Irradience Meter
+OT/ICS/Industrial	Solar Analyzer
+OT/ICS/Industrial	Solar Inverter
+OT/ICS/Industrial	Solar Installation Testing Device
+OT/ICS/Industrial	Temporary Power Distribution Device
+OT/ICS/Industrial	Three Phase Temporary and Portable Power Station 
+OT/ICS/Industrial	Automatic Reset GFCI Modules
+OT/ICS/Industrial	Profinet Gateway
+OT/ICS/Industrial	Profinet Gateway WLAN
+OT/ICS/Industrial	Industrial LTE Router 3G/4G and Wi-Fi
+OT/ICS/Industrial	Insutrial Wireless Access Client 802.11a/b/g/n
+OT/ICS/Industrial	Insutrial Ruggedized Wireless Access Client 802.11a/b/g/n
+OT/ICS/Industrial	Industrial Computer
+OT/ICS/Industrial	Industrial Rackmount Computer
+OT/ICS/Industrial	Industrial High-Performance Computer
+OT/ICS/Industrial	RFID Integrated UHF
+OT/ICS/Industrial	RFID Reader Handheld
+OT/ICS/Industrial	RFID Wireless
+OT/ICS/Industrial	RFID Reader w/ Read/Write
+OT/ICS/Industrial	Thermal Imaging Device
+OT/ICS/Industrial	Modular PLC
+OT/ICS/Industrial	Distributed PLC System
+OT/ICS/Industrial	Fixed PLC
+OT/ICS/Industrial	Pico/Nano PLC
+OT/ICS/Industrial	Micro PLC
+OT/ICS/Industrial	Mini PLC
+OT/ICS/Industrial	Safety PLC
+OT/ICS/Industrial	Assistive Robot (four legged)
+OT/ICS/Industrial	Articulated Robot
+OT/ICS/Industrial	Cartesian Robot
+OT/ICS/Industrial	Cylindrical Robot
+OT/ICS/Industrial	Polar Robot
+OT/ICS/Industrial	SCARA Robot
+OT/ICS/Industrial	Delta Robot
+OT/ICS/Industrial	Autonomous Robot 
+OT/ICS/Industrial	Augmenting Robot
+OT/ICS/Industrial	Teleoperated Robot
+OT/ICS/Industrial	Industrial Furnace - Programmable Automation PLC
+OT/ICS/Industrial	Industrial Furnace - PLC
+OT/ICS/Industrial	Industrial Furnace - PLC Dedicated
+OT/ICS/Industrial	Industrial Operator Workstation
+OT/ICS/Industrial	Industrial Alarm Panel
+OT/ICS/Industrial	Transformer Protection Relay
+OT/ICS/Industrial	Industrial Programmable Automation Controller
+OT/ICS/Industrial	Current Differential Relay
+OT/ICS/Industrial	Protection, Automation, Control Merging Unit
+OT/ICS/Industrial	Satellite-Synchonized Clock
+OT/ICS/Industrial	Remote I/O Module
+OT/ICS/Industrial	Industrial Ethernet Transceiver
+OT/ICS/Industrial	Industrial Fiber-Optic Transfer Switch
+OT/ICS/Industrial	Transformer Monitor
+OT/ICS/Industrial	Phase and Ground Distance Relay
+OT/ICS/Industrial	Real-Time Automation Controller
+OT/ICS/Industrial	Logic Processor
+OT/ICS/Industrial	Recloser Control
+OT/ICS/Industrial	Line Current Differential Relay
+OT/ICS/Industrial	Motor Protection Relay
+OT/ICS/Industrial	Protection, Automation, Bay Control System
+OT/ICS/Industrial	Generator ProtectioN Relay
+OT/ICS/Industrial	Industrial Software-Defined Network Switch
+OT/ICS/Industrial	Overcurrent/Reclosing Relay
+OT/ICS/Industrial	Bus Differential and Breaker Failure Relay
+OT/ICS/Industrial	High-Impedance Differential Relay
+OT/ICS/Industrial	Voltage Regulator Control
+OT/ICS/Industrial	Satellite Sychronized Clock
+OT/ICS/Industrial	Annunciator Panel
+OT/ICS/Industrial	Industrial Ethernet Radio
+OT/ICS/Industrial	Single Phase Recloser Control
+OT/ICS/Industrial	Pump Automation Controller
+OT/ICS/Industrial	Transmission Protection System
+OT/ICS/Industrial	Industrial Bluetooth Serial Adapter
+OT/ICS/Industrial	Industrial Portable Bluetooth Serial Adapter
+OT/ICS/Industrial	Feeder Protection Relay
+OT/ICS/Industrial	Motor Management Relay
+OT/ICS/Industrial	Overcurrent Relay
+OT/ICS/Industrial	Breaker Relay
+OT/ICS/Industrial	Generator Relay
+OT/ICS/Industrial	Motor Relay
+OT/ICS/Industrial	Industrial Fiber Optic Transceiver/Modem
+OT/ICS/Industrial	Industrial High-Accuracy Fiber-Optic Transceiver
+OT/ICS/Industrial	Arc Flash Test Module
+OT/ICS/Industrial	Line Protection Relay
+OT/ICS/Industrial	Industrial RS-232 to Fiber-Optic Interface Converter
+OT/ICS/Industrial	Phasor Data Concentrator
+OT/ICS/Industrial	Industrial Communications Processor
+OT/ICS/Industrial	Industrial Temperature Monitor Digital Data Logger (Vaccines)
+OT/ICS/Industrial	Mirrored Bits Tester
+OT/ICS/Industrial	Safety Instrumented System Controller
+OT/ICS/Industrial	Remote Operations Controller
+OT/ICS/Industrial	Hybrid RTU/PLC
+OT/ICS/Industrial	Field Mount Flow Computer
+OT/ICS/Industrial	Machine Health Monitor
+OT/ICS/Industrial	RTU Interface Wireless
+OT/ICS/Industrial	Static Transfer Switch
+OT/ICS/Industrial	Arc Fault Detection System
+OT/ICS/Industrial	Numeric Relay
+OT/ICS/Industrial	Industrial Power and Energy Meter
+OT/ICS/Industrial	Single-Point Submetering System
+OT/ICS/Industrial	Multi-Point Submetering System
+OT/ICS/Industrial	Long Range IoT Modem 
+OT/ICS/Industrial	Zigbee Wireless Repeater
+OT/ICS/Industrial	CNC Milling
+OT/ICS/Industrial	CNC Lathe
+OT/ICS/Industrial	CNC Router
+OT/ICS/Industrial	CNC Plasma Cutter
+OT/ICS/Industrial	CNC Electric Discharge Machine
+OT/ICS/Industrial	CNC Laser Cutter
+OT/ICS/Industrial	Industrial 3-D Printer
+OT/ICS/Industrial	Industrial Additive Manufacturing
+OT/ICS/Industrial	CNC Grinder
+OT/ICS/Industrial	6-Axis CNC
+OT/ICS/Industrial	2D Laser Cutting Machine
+OT/ICS/Industrial	Laser Tube Cutting Machin
+OT/ICS/Industrial	Punch Machine
+OT/ICS/Industrial	Marking System
+OT/ICS/Industrial	Punch Laser Machine
+OT/ICS/Industrial	Laser Welding System
+OT/ICS/Industrial	Plasma Excitation
+OT/ICS/Industrial	Solid State Lighting Controller
+OT/ICS/Industrial	Industrial Luminaire Controller
+OT/ICS/Industrial	Industrial Lighting Server
+OT/ICS/Industrial	Industrial Lighting ECU
+OT/ICS/Industrial	Industrial Lighting SSU
+OT/ICS/Industrial	Industrial Lighting SIM
+OT/ICS/Industrial	Industrial Lighting Photo Sensor
+OT/ICS/Industrial	Industrial Lighting Occupancy Sensor
+OT/ICS/Industrial	Industrial Lighting Wall Station
+OT/ICS/Industrial	Gas Detector
+OT/ICS/Industrial	Multi-Gas Detector
+OT/ICS/Industrial	Wireless Mini-Controller
+OT/ICS/Industrial	Safety Light Curtain Controller
+OT/ICS/Industrial	Safety Door Switch
+OT/ICS/Industrial	Safety Laser Scanner
+OT/ICS/Industrial	Safety Mat
+OT/ICS/Industrial	Industrial Electronic Locker Lock
+OT/ICS/Industrial	Industrial Video Intercom
+OT/ICS/Industrial	BES Cyber System  
+OT/ICS/Industrial	BES SubSystem
+OT/ICS/Industrial	BES Cyber System Component
+OT/ICS/Industrial	Generating Plant DCS 
+OT/ICS/Industrial	Dynamic Feeder Rating System
+OT/ICS/Industrial	Phasor Measurement Unit
+OT/ICS/Industrial	Power System State Estimator
+OT/ICS/Industrial	Open/Close Louvers Lighting
