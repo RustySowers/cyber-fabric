@@ -1,17 +1,22 @@
 DRAFT - EXAMPLES -Duplicates, redundancies in list
 
+Categories are Corp, Data Center , Network, OT/ICS/Industrial, Medical, Construction,
+Transportation, for now
 
-Combo Coax Modem/Wi-Fi disabled- Consumer Grade
-Combo Coax Modem/Router - No Native Wi-FI
-Webserver - Bare-Metal OS Type 1 
-Webserver - Bare-Metal OS Type 2
-Webserver - Bare-Metal OS Type 3
-Cable Modem
-Combo Coax Modem/Router/WiFi WPS/WPA2- Business Grade 
-Combo Coax Modem/Router/Wi-Fi WPS/WPA2 - Consumer Grade
-Combo Coax Modem/Router/WiFi6 WPA3- Business Grade
-Combo Coax Modem/Router/Wi-Fii6 WPA3 - Consumer Grade
-Combo Coax Modem/Router/WiFi disabled - Business Grade
+Type
+Combo Router/Modem/Wi-Fi disabled- Consumer Grade
+Cable Modem - No Native Wi-FI
+Webserver - Type 1 
+Webserver - Type 2
+Webserver - Type 3
+ISP Business Type
+ISP Enterprise Type
+Cable Modem 
+Combo Router/Modem/WiFi WPS/WPA2- Business Grade 
+Combo Router/Modem/Wi-Fi WPS/WPA2 - Consumer Grade
+Combo Router/Modem/WiFi6 WPA3- Business Grade
+Combo Router/Modem/Wi-Fii6 WPA3 - Consumer Grade
+Combo Router/Modem w/ WiFi disabled - Business Grade
 Cable Modem Termination System
 ISP Inter-provider Router
 ISP Internal BGP
@@ -86,8 +91,8 @@ Kiosk - Private Access
 End-user Laptops - Non-Managed
 End-User Desktop PCs - Non-Managed+User unaware
 Endpoint - Open Reception Area PC
-Data Center Fabric Interconnect Device
-Data Center Fabric Extender 
+Fabric Interconnect Device
+Fabric Extender 
 Workstation PC 
 DNS Server (external) Placeholder
 Network Load Balancer - Virtual Appliance
@@ -236,6 +241,7 @@ Industrial Control Operator W/s - Unsupported OS
 HMI - Ethernet
 PLC - Ethernet
 PLC - Non-TCP/IP
+PLC - Ethernet, w/ Wi-Fi
 Dist. Control System Unit
 Intelligent Electronic Device - Ethernet
 Intelligent Electronic Device - Fieldbus
@@ -252,6 +258,11 @@ AiO Wi-Fi System w/ Multi-AP
 Lab/Benchtop Centifuge
 Gas Chromatography Mass Spectrometry Machine
 3D Imaging Scanner
+Paint Robot
+Toploader Robot
+Precision Robot
+ARC Weld Robot
+Collaborative Robot
 AC Speed Control Device
 Blower Motor Controller
 Stepper Motor Controller
@@ -273,8 +284,11 @@ Dot Matrix Printer
 Projector
 Thermometer/Humidity Sensor
 CNC Controller
-Robotic
-Forklift
+Sideloader
+Robotic Forklift
+Counterbalance Forklift
+Telehandler
+Industrial Forklift
 End-User Desktop PCs - IT Managed
 Endpoint - Shipping/Receiving
 End-User Desktop PCs - "IT Managed" + "User Trained" + "Security managed"
@@ -291,7 +305,6 @@ Industrial Control Operator W/s - Supported OS
 Monitors (WiDi)
 Shared End-User Desktop - IT+Security Managed
 Workstation PC "IT Managed" + "Security managed"+"Limited Physical Access"
-Host-Type
 Customer-network adjacent ISP device, DSL
 Customer-network adjacent ISP device, Coax 
 Customer-network adjacent ISP device, Fiber Device
@@ -318,6 +331,9 @@ ICS Robot Controllers
 ICS Programmable Automation Controller
 ICS Distributed I/O
 ICS Variable Frequency Drive Controllers
+Walkie Stacker
+Order Picker
+Pallet Jack
 ICS Test Stand Servers
 SAN storage Controller Passive
 
@@ -497,7 +513,7 @@ Industrial Grid Router
 Radio Transceiver
 FM Radio Traffic Aggregator
 Point-to-multipoint Base Station
-Point-to-mesh 
+Point-to-mesh Device
 Heacy-Duty Industrial Access Point
 Industrial Access Point - Rolling Stock
 Industrial Service Router single-LTE WAN
@@ -573,7 +589,7 @@ Decontamination System
 UV Decontamination System
 Sterilizer System
 Muscle Stimulator Device
-Diaphragm Pacing Ther
+Diaphragm Pacing Therapy Device
 Solar Charge Controller
 Solar Irradience Meter
 Solar Analyzer
@@ -598,7 +614,7 @@ RFID Wireless
 RFID Reader w/ Read/Write
 Thermal Imaging Device
 Microscope Camera Wi-Fi
-Wi-Fi Digital Microscore Portable
+Wi-Fi Digital Microscope Portable
 Floor Scale Wi-Fi
 Wireless Endoscope
 Pulse Oximeter Wi-Fi
@@ -700,13 +716,242 @@ Edu Coding Kit
 Tablet   
 Laptop
 Tablet "medical-use"
+Accessiblity - Communication Device
+Tele-Rehabilition-specific Comm Applianxce
+Ph Meter IoT
+Emulsifier
+Spectrophotmeter
+Lab Hot Plate
+Digital Oscilloscope
+Autoclave Sterilizer
+Refractometer
+Modular PLC
+Distributed PLC System
+Fixed PLC
+Pico/Nano PLC
+Micro PLC
+Mini PLC
+Safety PLC
+Assistive Robot (four legged)
+Articulated Robot
+Cartesian Robot
+Cylindrical Robot
+Polar Robot
+SCARA Robot
+Delta Robot
+Autonomous Robot 
+Augmenting Robot
+Teleoperated Robot
+Industrial Furnace - Programmable Automation PLC
+Industrial Furnace - PLC
+Industrial Furnace - PLC Dedicated
+Industrial Operator Workstation
+Industrial Alarm Panel
+Transformer Protection Relay
+Industrial Programmable Automation Controller
+Current Differential Relay
+Protection, Automation, Control Merging Unit
+Satellite-Synchonized Clock
+Remote I/O Module
+Industrial Ethernet Transceiver
+Industrial Fiber-Optic Transfer Switch
+Transformer Monitor
+Phase and Ground Distance Relay
+Real-Time Automation Controller
+Logic Processor
+Recloser Control
+Line Current Differential Relay
+Motor Protection Relay
+Protection, Automation, Bay Control System
+Generator ProtectioN Relay
+Industrial Software-Defined Network Switch
+Overcurrent/Reclosing Relay
+Bus Differential and Breaker Failure Relay
+High-Impedance Differential Relay
+Voltage Regulator Control
+Satellite Sychronized Clock
+Annunciator Panel
+Industrial Ethernet Radio
+Single Phase Recloser Control
+Pump Automation Controller
+Transmission Protection System
+Industrial Bluetooth Serial Adapter
+Industrial Portable Bluetooth Serial Adapter
+Feeder Protection Relay
+Motor Management Relay
+Overcurrent Relay
+Breaker Relay
+Generator Relay
+Motor Relay
+Industrial Fiber Optic Transceiver/Modem
+Industrial High-Accuracy Fiber-Optic Transceiver
+Arc Flash Test Module
+Line Protection Relay
+Industrial RS-232 to Fiber-Optic Interface Converter
+Phasor Data Concentrator
+Industrial Communications Processor
+Industrial Temperature Monitor Digital Data Logger (Vaccines)
+Mirrored Bits Tester
+Safety Instrumented System Controller
+Remote Operations Controller
+Hybrid RTU/PLC
+Field Mount Flow Computer
+Machine Health Monitor
+RTU Interface Wireless
+Static Transfer Switch
+Arc Fault Detection System
+Numeric Relay
+Industrial Power and Energy Meter
+Single-Point Submetering System
+Multi-Point Submetering System
+Incubator
+Spectrophotmeter
+Microcentrifuges
+Microbalance scale
+Titrator
+Density Meter
+Melting Point System
+pH Meter  
+pH Titrator
+Analytical Balance
+Atomic Wall Clock
+Alarm Timer 
+Heating Oven
+Drying Oven
+Refrigerated/Heated Bath Circulators
+Cooling/Heating Recriculating Chiller
+Ultrasonic Cleaner
+Mini Plate Spinner Centrifuge
+Clinical Centrifuge
+Refrigerated Incubator
+Microbiological Incubator
+Vacuum Oven
+Gravity Oven
+PCR Workstation
+WiFi Data Logger
+General Purpose Freezer
+Flammable Materials Freezer
+Explosion Proof Freezer
+Ulta-low Temperature Freezer
+Chromatography Refrigerator
+Datalogging Thermometer
+Ultra-accurate Thermometer
+Class II A2 Biological Safety Cabinet
+Clean Bench
+Class II Cytoxic Safety Cabinet
+Class II Type B2 Biosafety Cabinet
+Cardiorespiratory Monitor
+MRI
+CPAP
+ECMO 
+Ruggedized Payroll Time Clock
+IoT M2M Modem
+GSM Gateway
+LoRa IoT Development Kit
+IoT Development Kit
+Long Range IoT Modem 
+Zigbee Wireless Repeater
+CNC Milling
+CNC Lathe
+CNC Router
+CNC Plasma Cutter
+CNC Electric Discharge Machine
+CNC Laser Cutter
+Industrial 3-D Printer
+Industrial Additive Manufacturing
+CNC Grinder
+6-Axis CNC
+2D Laser Cutting Machine
+Laser Tube Cutting Machin
+Punch Machine
+Marking System
+Punch Laser Machine
+Laser Welding System
+Plasma Excitation
+Solid State Lighting Controller
+Industrial Luminaire Controller
+Industrial Lighting Server
+Industrial Lighting ECU
+Industrial Lighting SSU
+Industrial Lighting SIM
+Industrial Lighting Photo Sensor
+Industrial Lighting Occupancy Sensor
+Industrial Lighting Wall Station
+Gas Detector
+Multi-Gas Detector
+Wireless Mini-Controller
+Safety Light Curtain Controller
+Safety Door Switch
+Safety Laser Scanner
+Safety Mat
+Industrial Electronic Locker Lock
+Industrial Video Intercom
+BES Cyber System  
+BES SubSystem
+BES Cyber System Component
+Generating Plant DCS 
+Dynamic Feeder Rating System
+Phasor Measurement Unit
+Power System State Estimator
 
-
-
-
-
-
-
-
-
-
+Gas Chromatography Mass Spectrometry System
+Gas Monitoring Unit Cellular
+Gas Monitoring Unit Ethernet
+Gas Monitoring Unit WiFi
+Servo Motor PLC
+Industrial Thermal Transfer Printer Ethernet
+Industrial Thermal Transfer Printer WiFi
+Engine Control Unit
+Infotainment Control Unit
+Safety Monitoring System - Driver
+Safety System
+Gateway
+Advanced Driver Assistance System
+Telematics
+On-board Diagnostic System 
+Body Control Unit
+Transmission Control Unit
+Suspension Control 
+Infotainment Tablet/Computer
+Wireless Intersection System Modem
+Wireless Intersection System Wireless AP
+Wireless Intersection System Traffic Signal Controller
+Ethernet Microwave
+Changeable Message Sign
+CCTV Camera PTZ
+Radio Antenna System 
+Base Station Unit
+Router
+Device Ring Layer 3 Router
+Dynamic Message Sign
+Highway Advisory Radio
+Vehicle Detection System
+Emergency Vehicle Pre-Emption System
+Travel-Time System WiFi
+Travel-Time System Bluetooth
+Travel-Time System Other
+DMS Controller
+Public Emergency System Alarm
+IP Camera
+Adaptive Signal Control
+Dial Up Field Unit
+Local Field Unit
+Traffic Signal
+Dial-Up Modem
+Directional Boring Horizontal Drill
+Directional Boring Horizontal Drill Locatior
+High-Pressure Mud Pump 
+Pipleline Trencher
+Whole Tree Clipper
+Reclaimer
+Augmented Reality 
+Smart Helmet
+Smart Boot
+Power Gloves
+Back Support Exosuit
+Crouch Support Exosuit
+Shoulder Support Exosuit
+Crane
+Digital Twin
+Open/Close Louvers Lighting
+Drone for Construction 
