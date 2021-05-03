@@ -50,8 +50,8 @@ IDS/IPS - OS 1
 IDS/IPS - OS 2
 Combo Router/Modem/WiFi - Business Grade "Advanced Security"
 Combo Router/Modem/Wi-Fi - Consumer Grade "Advanced Security 
-AED (Defribullator) - Ethernet
-AED (Defribullator) - Wi-Fi
+AED (Defribillator) - Ethernet
+AED (Defribillator) - Wi-Fi
 Remote Terminal Unit
 Remote KVM 
 Remote Reboot/Power Off
@@ -324,19 +324,18 @@ Hyper-Converged Appliance  (Management, Virtual Network planes)
 Host-Type Attack-Surface "matrix" 
 ISP Residential Type
 Database Servers
-Business App Servers
-Update Servers 
-ICS Drives Controllers
-ICS Robot Controllers
+Business App Server
+Update Server
+ICS Drives Controller
+ICS Robot Controller
 ICS Programmable Automation Controller
 ICS Distributed I/O
 ICS Variable Frequency Drive Controllers
 Walkie Stacker
 Order Picker
 Pallet Jack
-ICS Test Stand Servers
+ICS Test Stand Server
 SAN storage Controller Passive
-
 NAS storage 
 Data Virtualization Switches
 UPS/Power Redundancy Controllers
